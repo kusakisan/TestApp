@@ -1,0 +1,27 @@
+﻿<Window x:Class="HomeWork1.RegistrZakaza"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HomeWork1"
+        mc:Ignorable="d"
+        Title="Оформление заказа" Height="450" Width="800" ResizeMode="NoResize">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <Label Style="{StaticResource LabelStyle}" Content="Номер заказа:" Grid.Column="0" Margin="19,57,54,324" />
+        <Label Style="{StaticResource LabelStyle}" Content="Кол-во товаров:" Grid.Column="0" Margin="19,102,54,279"/>
+        <TextBox x:Name="TextBoxNumber" Grid.Column="1" Margin="19,57,243,324" />
+        <TextBox x:Name="TextBoxKolvoTovarov" Grid.Column="1" Margin="19,102,243,279"/>
+        <Label Style="{StaticResource LabelStyle}" Content="Фамилия Клиента:" Grid.Column="0" Margin="19,147,20,234" />
+        <Label Style="{StaticResource LabelStyle}" Content="Наименование товара:" Grid.Column="0" Margin="19,237,580,144" Grid.ColumnSpan="2"/>
+        <TextBox x:Name="TextBoxFioClient" Grid.Column="1" Margin="19,147,243,234" />
+        <TextBox x:Name="TextBoxProuct" Grid.Column="1" Margin="19,237,243,144"/>
+        <Label Style="{StaticResource LabelStyle}" Content="Имя Клиента:" Grid.Column="0" Margin="19,192,20,189" />
+        <TextBox x:Name="TextBoxNameClient" Grid.Column="1" Margin="19,192,243,189" />
+        <Button Style="{StaticResource ButtonStyle}" x:Name="ButtonCreate" Content="Добавить заказ" Margin="10,334,393,47" Grid.Column="1" Click="ButtonCreate_Click"/>
+    </Grid>
+</Window>
