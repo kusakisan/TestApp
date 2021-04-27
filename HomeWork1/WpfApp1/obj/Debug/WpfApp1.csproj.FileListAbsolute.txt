@@ -1,0 +1,47 @@
+C:\Users\ruzar\source\repos\HomeWork1R\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\ruzar\source\repos\HomeWork1R\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\ruzar\source\repos\HomeWork1R\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\ruzar\source\repos\HomeWork1R\WpfApp1\obj\Debug\ForStyle.baml
+C:\Users\ruzar\source\repos\HomeWork1R\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\ruzar\source\repos\HomeWork1R\WpfApp1\obj\Debug\RegistrZakaza.g.cs
+C:\Users\ruzar\source\repos\HomeWork1R\WpfApp1\obj\Debug\WindowZakaz.g.cs
+C:\Users\ruzar\source\repos\HomeWork1R\WpfApp1\obj\Debug\App.g.cs
+C:\Users\ruzar\source\repos\HomeWork1R\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\ruzar\source\repos\HomeWork1R\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\ruzar\source\repos\HomeWork1R\WpfApp1\obj\Debug\App.baml
+C:\Users\ruzar\source\repos\HomeWork1R\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\ruzar\source\repos\HomeWork1R\WpfApp1\obj\Debug\RegistrZakaza.baml
+C:\Users\ruzar\source\repos\HomeWork1R\WpfApp1\obj\Debug\WindowZakaz.baml
+C:\Users\ruzar\source\repos\HomeWork1R\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\ruzar\source\repos\HomeWork1R\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\ruzar\source\repos\HomeWork1R\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\ruzar\source\repos\HomeWork1R\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\ruzar\source\repos\HomeWork1R\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\ruzar\source\repos\HomeWork1R\WpfApp1\obj\Debug\WpfApp1.pdb
+H:\хэлпаните\подготовка к демке\ff\HomeWork1R\WpfApp1\bin\Debug\WpfApp1.exe.config
+H:\хэлпаните\подготовка к демке\ff\HomeWork1R\WpfApp1\bin\Debug\WpfApp1.exe
+H:\хэлпаните\подготовка к демке\ff\HomeWork1R\WpfApp1\bin\Debug\WpfApp1.pdb
+H:\хэлпаните\подготовка к демке\ff\HomeWork1R\WpfApp1\bin\Debug\EntityFramework.dll
+H:\хэлпаните\подготовка к демке\ff\HomeWork1R\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+H:\хэлпаните\подготовка к демке\ff\HomeWork1R\WpfApp1\bin\Debug\EntityFramework.xml
+H:\хэлпаните\подготовка к демке\ff\HomeWork1R\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+H:\хэлпаните\подготовка к демке\ff\HomeWork1R\WpfApp1\bin\Debug\ru\EntityFramework.resources.dll
+H:\хэлпаните\подготовка к демке\ff\HomeWork1R\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+H:\хэлпаните\подготовка к демке\ff\HomeWork1R\WpfApp1\obj\Debug\ForStyle.baml
+H:\хэлпаните\подготовка к демке\ff\HomeWork1R\WpfApp1\obj\Debug\MainWindow.g.cs
+H:\хэлпаните\подготовка к демке\ff\HomeWork1R\WpfApp1\obj\Debug\RegistrZakaza.g.cs
+H:\хэлпаните\подготовка к демке\ff\HomeWork1R\WpfApp1\obj\Debug\WindowZakaz.g.cs
+H:\хэлпаните\подготовка к демке\ff\HomeWork1R\WpfApp1\obj\Debug\App.g.cs
+H:\хэлпаните\подготовка к демке\ff\HomeWork1R\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+H:\хэлпаните\подготовка к демке\ff\HomeWork1R\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+H:\хэлпаните\подготовка к демке\ff\HomeWork1R\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+H:\хэлпаните\подготовка к демке\ff\HomeWork1R\WpfApp1\obj\Debug\App.baml
+H:\хэлпаните\подготовка к демке\ff\HomeWork1R\WpfApp1\obj\Debug\MainWindow.baml
+H:\хэлпаните\подготовка к демке\ff\HomeWork1R\WpfApp1\obj\Debug\RegistrZakaza.baml
+H:\хэлпаните\подготовка к демке\ff\HomeWork1R\WpfApp1\obj\Debug\WindowZakaz.baml
+H:\хэлпаните\подготовка к демке\ff\HomeWork1R\WpfApp1\obj\Debug\WpfApp1.g.resources
+H:\хэлпаните\подготовка к демке\ff\HomeWork1R\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+H:\хэлпаните\подготовка к демке\ff\HomeWork1R\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+H:\хэлпаните\подготовка к демке\ff\HomeWork1R\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+H:\хэлпаните\подготовка к демке\ff\HomeWork1R\WpfApp1\obj\Debug\WpfApp1.exe
+H:\хэлпаните\подготовка к демке\ff\HomeWork1R\WpfApp1\obj\Debug\WpfApp1.pdb
