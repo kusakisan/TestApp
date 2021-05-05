@@ -1,0 +1,24 @@
+﻿<Window x:Class="practice.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:practice"
+        mc:Ignorable="d"
+        Title="Авторизация" Height="500" Width="700" MinHeight="500" MinWidth="700">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="250"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <Label Style="{StaticResource LabelStyle}" Content="Введите логин:" Margin="141,159,428,273" Grid.ColumnSpan="2" />
+        <TextBox x:Name="TextBoxLogin" Margin="24,157,158,282" Grid.Column="1"/>
+        <Label Style="{StaticResource LabelStyle}" Content="Введите пароль:" Margin="141,211,428,220" Grid.ColumnSpan="2" />
+        <TextBox x:Name="TextBoxPass" Margin="24,209,158,230" Grid.Column="1"/>
+        <PasswordBox x:Name="Password" Margin="24,209,158,230" Grid.Column="1"/>
+        <Button Style="{StaticResource ButtonStyle}" x:Name="ButtonLogin" Content="Авторизоваться" Margin="237,293,265,137" Grid.ColumnSpan="2" Click="ButtonLogin_Click"/>
+        <CheckBox Content="Показать пароль" x:Name="CheckBoxPass" Grid.Column="1" Margin="10,254,182,181" Checked="CheckBoxPass_Checked" Unchecked="CheckBoxPass_Unchecked"></CheckBox>
+
+    </Grid>
+</Window>
